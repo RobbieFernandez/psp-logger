@@ -2,6 +2,10 @@
 name = "psp-logger"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Logger for the PSP"
+repository = "https://github.com/RobbieFernandez/psp-logger/"
+exclude = ["rust-toolchain"]
 
 [dependencies]
 log = { version = "0.4.21", default-features = false }
