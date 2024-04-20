@@ -9,5 +9,5 @@ exclude = ["rust-toolchain"]
 
 [dependencies]
 log = { version = "0.4.21", default-features = false }
-psp = { version = "0.3.7"}
+psp = "0.3.8"
 spin = "0.9.8"
